@@ -141,3 +141,12 @@ form p {
   border-color: #0099ff;
   box-shadow: 2px 2px #00000033;
 }
+
+button[type="submit"] {
+  border-radius: 10px;
+  background-color: #ffe030;
+  border: none;
+  width: 200px;
+  padding: 10px;
+  margin-left: 80px;
+}
